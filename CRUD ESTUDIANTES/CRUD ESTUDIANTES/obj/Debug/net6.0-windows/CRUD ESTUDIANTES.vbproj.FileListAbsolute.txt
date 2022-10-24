@@ -1,0 +1,19 @@
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\bin\Debug\net6.0-windows\CRUD ESTUDIANTES.exe
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\bin\Debug\net6.0-windows\CRUD ESTUDIANTES.deps.json
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\bin\Debug\net6.0-windows\CRUD ESTUDIANTES.runtimeconfig.json
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\bin\Debug\net6.0-windows\CRUD ESTUDIANTES.dll
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\bin\Debug\net6.0-windows\CRUD ESTUDIANTES.pdb
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\obj\Debug\net6.0-windows\CRUD ESTUDIANTES.vbproj.AssemblyReference.cache
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\obj\Debug\net6.0-windows\CRUD_ESTUDIANTES.Form1.resources
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\obj\Debug\net6.0-windows\CRUD ESTUDIANTES.vbproj.GenerateResource.cache
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\obj\Debug\net6.0-windows\CRUD ESTUDIANTES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\obj\Debug\net6.0-windows\CRUD ESTUDIANTES.AssemblyInfoInputs.cache
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\obj\Debug\net6.0-windows\CRUD ESTUDIANTES.AssemblyInfo.vb
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\obj\Debug\net6.0-windows\CRUD ESTUDIANTES.vbproj.CoreCompileInputs.cache
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\obj\Debug\net6.0-windows\CRUD ESTUDIANTES.vbproj.CopyComplete
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\obj\Debug\net6.0-windows\CRUD ESTUDIANTES.dll
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\obj\Debug\net6.0-windows\refint\CRUD ESTUDIANTES.dll
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\obj\Debug\net6.0-windows\CRUD ESTUDIANTES.pdb
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\obj\Debug\net6.0-windows\CRUD ESTUDIANTES.genruntimeconfig.cache
+C:\Users\PC-TEC\Desktop\Trabajo final\CRUD ESTUDIANTES\CRUD ESTUDIANTES\obj\Debug\net6.0-windows\ref\CRUD ESTUDIANTES.dll
